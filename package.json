@@ -1,0 +1,19 @@
+{
+	"name": "unplash-json-server",
+	"version": "1.0.0",
+	"description": "https://my-json-server.typicode.com/HrqstnElq/json-server/",
+	"main": "server.js",
+	"engines": {
+		"node": "v12.18.2",
+		"npm": "6.14.8"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"json-server": "^0.16.2"
+	}
+}
