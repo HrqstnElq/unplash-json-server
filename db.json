@@ -11,5 +11,11 @@
 		{"id": 9, "label": "picsum9", "url": "https://picsum.photos/556/750", "password": "1"},
 		{"id": 10, "label": "picsum10", "url": "https://picsum.photos/451/750", "password": "1"},
 		{"id": 11, "label": "picsum11", "url": "https://picsum.photos/557/750", "password": "1"}
+	],
+	"user": [
+		{"id": 1, "username": "user1", "password": "1", "name": "vu"},
+		{"id": 2, "username": "user2", "password": "1", "name": "vu"},
+		{"id": 3, "username": "user3", "password": "1", "name": "vu"},
+		{"id": 4, "username": "user4", "password": "1", "name": "vu"}
 	]
 }
